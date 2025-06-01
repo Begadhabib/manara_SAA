@@ -1,4 +1,3 @@
-Here's the README file based on your provided structure and the diagram:
 
 # AWS Architecture: Scalable Web Application
 
@@ -70,3 +69,4 @@ This is an architecture for a scalable web application on AWS using the followin
 11. **CloudWatch** publishes a message to the **SNS topic**.
 12. The Administrator is subscribed to the **SNS topic**, and they receive an email/SMS about the events, ensuring timely alerts and operational awareness.
 
+![Proj](https://github.com/user-attachments/assets/52c38270-07e3-4a29-89ec-23d3383b8f33)
